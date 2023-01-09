@@ -27,7 +27,7 @@
             </VASTAdTagURI>
         </Wrapper>
     </Ad>
-    <Ad id="20012" sequence="2">
+    <Ad id="20012">
         <Wrapper followAdditionalWrappers="0" allowMultipleAds="1" fallbackOnNoAd="0">
             <AdSystem version="4.0">iabtechlab</AdSystem>
             <Error>
